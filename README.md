@@ -4,13 +4,13 @@
 This project focuses on analyzing market sales data to uncover trebds and insights related to product performance, customet behavior, and regional sales. The goalis to support data driven decisions.
 
 ## 🗑Data Cleaning
-- Performed in *Excel*
+- Performed in **Excel**
 - Removed duplicates and irrelevant columns
 - Handled missing values
 - Standardized data formats
 
 ## 📈Exploratory Data Analysis
-- Conducted using *MySQL*
+- Conducted using **MySQL**
 - Analyzed sales in june, how many customers are normal, how many customers are members, top product line
 - Identified high income customers
 

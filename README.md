@@ -1,7 +1,7 @@
 # Market Sales Exploratory Data  Analysis
 
 ## 📍Project Overview
-This project focuses on analyzing market sales data to uncover trebds and insights related to product performance, customet behavior, and regional sales. The goalis to support data driven decisions.
+This project focuses on analyzing market sales data to uncover trends and insights related to product performance, customer behavior, and regional sales. The goal is to support data driven decisions.
 
 ## 🗑Data Cleaning
 - Performed in **Excel**

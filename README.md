@@ -14,12 +14,22 @@ This project focuses on analyzing market sales data to uncover trebds and insigh
 - Analyzed sales in june, how many customers are normal, how many customers are members, top product line
 - Identified high income customers
 
-## 📊Dashboard
+## 📊Dashboard (Excel)
 - created in Excel
 - interactive visuals displaying key metrics
 - Average sales per product line
 - Percentage of customers across cities
 - Added slicers and timeline to filter down the visuals accordingly
+
+## 📊Dashboard (Tableau)
+### Description
+An interactive **Tableau dashboard** analyzing market sales data to uncover performance patterns and sales distributions across cities and product lines.
+
+### Features
+- Built in **Tableau**
+- Visual breakdown per product line, region and month
+- The charts are interactive and are acting as filters
+- KPIs highlighting highest gross income, total quantity and total sales
 
 ## 🛠Tools Used
 - Microsoft Excel
